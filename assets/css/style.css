@@ -308,6 +308,8 @@ main {
 }
 
 .btn_orange {
+  -webkit-appearance: none;
+  -moz-appearance: none;
   display: block;
   background: none !important;
   background-color: #FFA800 !important;
