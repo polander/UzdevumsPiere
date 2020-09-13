@@ -164,7 +164,7 @@ header {
 }
 
 .overlay_nav_list li {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 
 #totop_btn {
@@ -174,7 +174,6 @@ header {
   left: 0;
   z-index: 199;
   cursor: pointer;
-  top: 90vh;
 }
 
 #totop_btn img {
@@ -538,6 +537,9 @@ footer {
 @media (max-width: 650px) {
   main {
     margin-top: 20px;
+  }
+  .overlay_nav_list li {
+    margin-bottom: 25px;
   }
   #gallery {
     -webkit-box-orient: vertical;
