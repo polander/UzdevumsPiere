@@ -1,5 +1,5 @@
 # Static page made from Figma design
 
-Demo: [polander.github.io/UzdevumsPiere](https://polander.github.io/UzdevumsPiere/)
+Demo: [polander.github.io/sparkle](https://polander.github.io/sparkle/)
 
 
